@@ -13,6 +13,7 @@
   "devDependencies": {
     "ts-loader": "^8.0.1",
     "typescript": "^3.9.7",
+    "webpack": "^4.44.0",
     "webpack-bundle-analyzer": "^3.8.0"
   },
   "dependencies": {
