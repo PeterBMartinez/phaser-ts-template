@@ -11,10 +11,6 @@ export class BootScene extends Phaser.Scene {
         super(sceneConfig);
     }
 
-    public init() {
-        console.log('init');
-    }
-
     public preload() {
         this.load.image('player', 'assets/player.png');
     }
